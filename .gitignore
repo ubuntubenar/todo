@@ -1,0 +1,7 @@
+# Abaikan file konfigurasi database sensitif
+config.php
+config2.php
+
+# Abaikan file log dan direktori temporary
+*.log
+.env
